@@ -9,9 +9,8 @@ The application compromises of 2 functional microservices and 3 non-functional m
 
 **Functional**
 
-1. [Config Service]: https://github.com/Vaibhav5757/FriendsBook-Config-Server	"Config Server"
-
-2. [Eureka Server]: https://github.com/Vaibhav5757/FriendsBook-Eureka-Server	"Eureka Server"
+1. [Config Service](https://github.com/Vaibhav5757/FriendsBook-Config-Server) - which pulls config from [Config](https://github.com/Vaibhav5757/FriendsBook-Config)
+2. [Eureka Server](https://github.com/Vaibhav5757/FriendsBook-Eureka-Server) - for service discovery
 
 
 
